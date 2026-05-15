@@ -1,5 +1,5 @@
 <h1 align="center">🌙 I'm Sophia — MoonCherryFox</h1>
-<h3 align="center">Developer • DevOps • Server Infrastructure • Discord Bots • Minecraft Projects</h3>
+<h3 align="center">Developer • Server Infrastructure • Discord Bots • Minecraft Projects</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mooncherryfox&label=Profile%20views&color=6a5acd&style=flat" alt="mooncherryfox" />
@@ -8,138 +8,78 @@
 ---
 
 ## 👋 About Me
-From 2020 to 2025, I worked on Minecraft servers, plugin development, and hosting infrastructure.  
-I have experience deploying large-scale projects, configuring networks, managing Linux servers, and building automation tools.  
-I actively study programming languages, backend technologies, and DevOps tools used in real production environments.
+From 2020 to 2025, I worked on Minecraft servers and plugin development.  
+During this time, I created a large number of full server projects from scratch.  
+I have experience deploying hosting projects and managing servers for both gaming and non‑gaming purposes.  
+I understand networking fundamentals, including port configuration and proper allocation for server infrastructure.  
+
+I worked with the Pterodactyl platform for managing game server projects and also have experience with Docker and containerized environments.  
+I commonly use Docker for bots, websites, and small backend services.  
+
+I also have experience developing simple websites and applications.  
+By education, I am a programmer and have worked with a wide range of databases.  
+
+Currently, I actively study programming languages and technologies required for my projects.  
+I frequently use Python to develop bots, automation tools, and mini applications.  
+
+Although I was not very active on GitHub for a long time, I used GitBook extensively for project documentation, comments, and knowledge base creation.  
+One of the reasons I rarely used GitHub was because large Minecraft server builds and plugin collections were inconvenient to upload and maintain there.  
+
+I also have experience working with Minecraft server cores based on Paper and its forks, as well as developing proxy‑based protection systems for network projects.
 
 ---
 
-# 🚀 Current Projects
-
-### 🔹 SleepyMoon — Discord Bot  
-Multi-server bot with XP system, voice XP, moderation, automation, and web panel.  
-**Tech:** Python, SQLite, Docker  
-🔗 https://github.com/MoonCherryFox/SleepyMoon
-
-### 🔹 Moon Website  
-Personal website + developer hub  
-**Tech:** HTML, CSS, JS, Docker, Nginx
-
-### 🔹 Minecraft Network Tools  
-Custom Paper plugins, proxy protection, monitoring tools  
-**Tech:** Java, SQL, Linux
-
----
-
-# 🧩 Languages
+## 🚀 Languages & Technologies
 <p align="left">
-
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48"/></a>  
-<b>Java</b>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="48"/></a>  
-<b>JavaScript</b>
-
-<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48"/></a>  
-<b>C++</b>
-
-<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="48"/></a>  
-<b>C#</b>
-
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48"/></a>  
-<b>Python</b>
-
-<a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" width="48"/></a>  
-<b>Kotlin</b>
-
-<a href="https://developer.android.com" target="_blank"><img src="https://skillicons.dev/icons?i=android" width="48"/></a>  
-<b>Android Development</b>
-
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,cs,python,kotlin,android" height="40"/>
 </p>
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 <p align="left">
-
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></a>  
-<b>MySQL</b>
-
-<a href="https://www.oracle.com/database/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle" width="48"/></a>  
-<b>Oracle DB</b>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="48"/></a>  
-<b>SQL Server</b>
-
-<a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></a>  
-<b>PostgreSQL</b>
-
-<a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/></a>  
-<b>SQLite</b>
-
-<a href="https://canvasjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="48"/></a>  
-<b>CanvasJS (Charts)</b>
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle" height="40"/>
 </p>
 
 ---
 
-# 🛠️ DevOps & Infrastructure
+## 🛠️ Servers & Infrastructure
 <p align="left">
-
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48"/></a>  
-<b>Docker</b>
-
-<a href="https://pterodactyl.io/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48"/></a>  
-<b>Pterodactyl Panel</b>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="48"/></a>  
-<b>Bash</b>
-
-<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="48"/></a>  
-<b>Google Cloud Platform</b>
-
-<a href="https://nginx.org" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" width="48"/></a>  
-<b>Nginx</b>
-
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" width="48"/></a>  
-<b>Apache Kafka</b>
-
-<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/></a>  
-<b>Node.js</b>
-
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,nodejs,kafka,gcp" height="40"/>
 </p>
 
 ---
 
-# 🖥️ Server Infrastructure & Tools
-<p align="left">
-
-<a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48"/></a>  
-<b>Linux Servers</b>
-
-<a href="https://cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/></a>  
-<b>Cloudflare</b>
-
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48"/></a>  
-<b>Git</b>
-
-<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>  
-<b>GitHub</b>
-
-</p>
+## 🎮 Minecraft Development
+- Full server creation from zero  
+- Paper & Paper‑fork cores  
+- Custom plugins  
+- Proxy‑based protection systems  
+- Network configuration & optimization  
+- Hosting deployment (Pterodactyl, Linux, Docker)
 
 ---
 
-# 🔧 And More
-I work with many other tools, platforms, hosting systems, and server-side technologies as needed in real projects.
+## 📱 Android Development
+- Kotlin only  
+- Tools, utilities, UI logic
 
 ---
 
-# 🌐 Connect With Me
+## 🔗 Projects
+- **SleepyMoon Discord Bot** — Python, SQLite, Docker  
+  https://github.com/MoonCherryFox/SleepyMoon  
+
+- **Moon Website** — HTML, CSS, JS, Docker, Nginx  
+
+- **Minecraft Network Tools** — Java, SQL, Linux  
+
+---
+
+## 🌐 Contact
 <p align="left">
   <a href="https://discord.gg/q5uKSvhPpP" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="48"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
 </p>
 
