@@ -29,47 +29,28 @@ I also have experience working with Minecraft server cores based on Paper and it
 
 ---
 
-## 🚀 Languages & Technologies
+## 🧩 Technologies I Used
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,cs,python,kotlin,android,nginx,nodejs,kafka" height="40"/>
-</p>
-
----
-
-## 🗄️ Databases
-<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,cs,python,kotlin" height="40"/>
+  <!-- Android -->
+  <img src="https://skillicons.dev/icons?i=android" height="40"/>
+  <!-- Web / Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx" height="40"/>
+  <!-- DevOps / Servers -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,gcp" height="40"/>
+  <!-- Messaging / Streaming -->
+  <img src="https://skillicons.dev/icons?i=kafka" height="40"/>
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle" height="40"/>
 </p>
 
 - SQL Server  
-- CanvasJS (charts & data visualization)
-
----
-
-## 🛠️ Servers & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,gcp" height="40"/>
-</p>
-
+- CanvasJS (charts & data visualization)  
 - Pterodactyl Panel  
-- Various hosting panels and server management tools  
+- Hosting panels & server management tools  
 - Network configuration, routing, ports, proxy setups  
-
----
-
-## 🎮 Minecraft Development
-- Full server creation from zero  
-- Paper & Paper‑fork cores  
-- Custom plugins  
-- Proxy‑based protection systems  
-- Network configuration & optimization  
-- Hosting deployment (Pterodactyl, Linux, Docker)
-
----
-
-## 📱 Android Development
-- Kotlin only  
-- Tools, utilities, UI logic
+- And many other tools used in real projects
 
 ---
 
