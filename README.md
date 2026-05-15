@@ -1,5 +1,6 @@
 <h1 align="center">🌙 I'm Sophia — MoonCherryFox</h1>
-<h3 align="center">Developer • Server Infrastructure • Discord Bots • Minecraft Projects</h3>
+<h3 align="center">Infrastructure & Full Stack Developer • Minecraft Server Ecosystem • DevOps • Self-Hosted Systems
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mooncherryfox&label=Profile%20views&color=6a5acd&style=flat" alt="mooncherryfox" />
@@ -21,6 +22,7 @@ I frequently use Python to develop bots, automation tools, and mini applications
 Although I was not very active on GitHub for a long time, I used GitBook extensively for project documentation, comments, and knowledge base creation.  
 One of the reasons I rarely used GitHub was because large Minecraft server builds and plugin collections were inconvenient to upload and maintain there.  
 I also have experience working with Minecraft server cores based on Paper and its forks, as well as developing proxy‑based protection systems for network projects.
+I have experience deploying private VPN networks and extensive knowledge of protecting game servers against attacks, including hiding and securing real endpoint IP addresses.
 
 ---
 
@@ -58,7 +60,7 @@ I also have experience working with Minecraft server cores based on Paper and it
 - **NanoLand discord bot** — 03.15.2021 - ~ main bot for NanoLand minecraft server and  moderation functions for all servers in the future 
 - **NanoLand git book** — 2022 - ~ main for NanoLand minecraft server
 - **Minecraft server NanoLand** — 2019 - 2025 main line with a large number of servers
-Some projects are private, unavailable, or do not have specific public dates attached to them. Most of my work related to server infrastructure cannot be properly documented publicly, either because it was done under private contracts or developed for third-party clients. Because of this, I cannot claim ownership of certain projects or publicly disclose detailed information about them.
+- !!!!!!!! Some projects are private, unavailable, or do not have specific public dates attached to them. Most of my work related to server infrastructure cannot be properly documented publicly, either because it was done under private contracts or developed for third-party clients. Because of this, I cannot claim ownership of certain projects or publicly disclose detailed information about them. !!!!!!!!
 
 ---
 
