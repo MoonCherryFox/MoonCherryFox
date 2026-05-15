@@ -1,18 +1,147 @@
-<h1 align="center">I'm Sophia (MoonCherryFox)</h1>
-<h3 align="center">From 2020 to 2025, I worked on Minecraft servers and plugin development. During this time, I created a large number of projects. I have experience deploying hosting projects and managing servers for both gaming and non-gaming purposes. I understand networking fundamentals, including port configuration and proper allocation for server infrastructure. I worked with the Pterodactyl platform for managing game server projects and also have experience with Docker and containerized environments. I commonly use Docker for bots, websites, and small backend services. I also have experience developing simple websites and applications. By education, I am a programmer and have worked with a wide range of databases. Currently, I actively study programming languages and technologies required for my projects. I frequently use Python to develop bots, automation tools, and mini applications. Although I was not very active on GitHub for a long time, I used GitBook extensively for project documentation, comments, and knowledge base creation. One of the reasons I rarely used GitHub was because large Minecraft server builds and plugin collections were inconvenient to upload and maintain there. I also have experience working with Minecraft server cores based on Paper and its forks, as well as developing proxy-based protection systems for network projects.</h3>
+<h1 align="center">🌙 I'm Sophia — MoonCherryFox</h1>
+<h3 align="center">Developer • DevOps • Server Infrastructure • Discord Bots • Minecraft Projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mooncherryfox&label=Profile%20views&color=0e75b6&style=flat" alt="mooncherryfox" /> </p>
-
-- 🔭 I’m currently working on [SleepyMoon Disocrd bot](https://github.com/MoonCherryFox/SleepyMoon)
-
-- I’m looking to collaborate on **work**
-
-- 📫 How to reach me **discord dev ticket**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/q5uKSvhPpP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="q5uKSvhPpP" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mooncherryfox&label=Profile%20views&color=6a5acd&style=flat" alt="mooncherryfox" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+## 👋 About Me
+From 2020 to 2025, I worked on Minecraft servers, plugin development, and hosting infrastructure.  
+I have experience deploying large-scale projects, configuring networks, managing Linux servers, and building automation tools.  
+I actively study programming languages, backend technologies, and DevOps tools used in real production environments.
+
+---
+
+# 🚀 Current Projects
+
+### 🔹 SleepyMoon — Discord Bot  
+Multi-server bot with XP system, voice XP, moderation, automation, and web panel.  
+**Tech:** Python, SQLite, Docker  
+🔗 https://github.com/MoonCherryFox/SleepyMoon
+
+### 🔹 Moon Website  
+Personal website + developer hub  
+**Tech:** HTML, CSS, JS, Docker, Nginx
+
+### 🔹 Minecraft Network Tools  
+Custom Paper plugins, proxy protection, monitoring tools  
+**Tech:** Java, SQL, Linux
+
+---
+
+# 🧩 Languages
+<p align="left">
+
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48"/></a>  
+<b>Java</b>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="48"/></a>  
+<b>JavaScript</b>
+
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48"/></a>  
+<b>C++</b>
+
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="48"/></a>  
+<b>C#</b>
+
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48"/></a>  
+<b>Python</b>
+
+<a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" width="48"/></a>  
+<b>Kotlin</b>
+
+<a href="https://developer.android.com" target="_blank"><img src="https://skillicons.dev/icons?i=android" width="48"/></a>  
+<b>Android Development</b>
+
+</p>
+
+---
+
+# 🗄️ Databases
+<p align="left">
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></a>  
+<b>MySQL</b>
+
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle" width="48"/></a>  
+<b>Oracle DB</b>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="48"/></a>  
+<b>SQL Server</b>
+
+<a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></a>  
+<b>PostgreSQL</b>
+
+<a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/></a>  
+<b>SQLite</b>
+
+<a href="https://canvasjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="48"/></a>  
+<b>CanvasJS (Charts)</b>
+
+</p>
+
+---
+
+# 🛠️ DevOps & Infrastructure
+<p align="left">
+
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48"/></a>  
+<b>Docker</b>
+
+<a href="https://pterodactyl.io/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48"/></a>  
+<b>Pterodactyl Panel</b>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="48"/></a>  
+<b>Bash</b>
+
+<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="48"/></a>  
+<b>Google Cloud Platform</b>
+
+<a href="https://nginx.org" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" width="48"/></a>  
+<b>Nginx</b>
+
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" width="48"/></a>  
+<b>Apache Kafka</b>
+
+<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/></a>  
+<b>Node.js</b>
+
+</p>
+
+---
+
+# 🖥️ Server Infrastructure & Tools
+<p align="left">
+
+<a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48"/></a>  
+<b>Linux Servers</b>
+
+<a href="https://cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/></a>  
+<b>Cloudflare</b>
+
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48"/></a>  
+<b>Git</b>
+
+<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>  
+<b>GitHub</b>
+
+</p>
+
+---
+
+# 🔧 And More
+I work with many other tools, platforms, hosting systems, and server-side technologies as needed in real projects.
+
+---
+
+# 🌐 Connect With Me
+<p align="left">
+  <a href="https://discord.gg/q5uKSvhPpP" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="48"/>
+  </a>
+</p>
+
+---
+
