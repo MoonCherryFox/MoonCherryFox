@@ -6,6 +6,7 @@
 </p>
 
 ---
+
 ## 👋 About Me
 From 2020 to 2025, I worked on Minecraft servers and plugin development.  
 During this time, I created a large number of full server projects from scratch.  
@@ -20,7 +21,9 @@ I frequently use Python to develop bots, automation tools, and mini applications
 Although I was not very active on GitHub for a long time, I used GitBook extensively for project documentation, comments, and knowledge base creation.  
 One of the reasons I rarely used GitHub was because large Minecraft server builds and plugin collections were inconvenient to upload and maintain there.  
 I also have experience working with Minecraft server cores based on Paper and its forks, as well as developing proxy‑based protection systems for network projects.
+
 ---
+
 ## 🧩 Technologies I Used
 <p align="left">
   <!-- Languages -->
@@ -42,7 +45,9 @@ I also have experience working with Minecraft server cores based on Paper and it
 - Hosting panels & server management tools  
 - Network configuration, routing, ports, proxy setups  
 - And many other tools used in real projects
+
 ---
+
 ## 🔗 only my Projects
 - **SleepyMoon Discord Bot** — Python, SQLite, Docker  
   https://github.com/MoonCherryFox/SleepyMoon  
@@ -54,7 +59,9 @@ I also have experience working with Minecraft server cores based on Paper and it
 - **NanoLand git book** — 2022 - ~ main for NanoLand minecraft server
 - **Minecraft server NanoLand** — 2019 - 2025 main line with a large number of servers
 Some projects are private, unavailable, or do not have specific public dates attached to them. Most of my work related to server infrastructure cannot be properly documented publicly, either because it was done under private contracts or developed for third-party clients. Because of this, I cannot claim ownership of certain projects or publicly disclose detailed information about them.
+
 ---
+
 ## 🌐 Contact
 <p align="left">
   <a href="https://discord.gg/q5uKSvhPpP" target="_blank">
