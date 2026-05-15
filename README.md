@@ -31,7 +31,7 @@ I also have experience working with Minecraft server cores based on Paper and it
 
 ## 🚀 Languages & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,cs,python,kotlin,android" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,cs,python,kotlin,android,nginx,nodejs,kafka" height="40"/>
 </p>
 
 ---
@@ -41,12 +41,19 @@ I also have experience working with Minecraft server cores based on Paper and it
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle" height="40"/>
 </p>
 
+- SQL Server  
+- CanvasJS (charts & data visualization)
+
 ---
 
 ## 🛠️ Servers & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,nodejs,kafka,gcp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,gcp" height="40"/>
 </p>
+
+- Pterodactyl Panel  
+- Various hosting panels and server management tools  
+- Network configuration, routing, ports, proxy setups  
 
 ---
 
@@ -84,4 +91,3 @@ I also have experience working with Minecraft server cores based on Paper and it
 </p>
 
 ---
-
