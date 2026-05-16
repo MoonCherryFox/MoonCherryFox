@@ -1,5 +1,5 @@
 <h1 align="center">🌙 I'm Sophia — MoonCherryFox</h1>
-<h3 align="center">Infrastructure & Full Stack Developer • Minecraft Server Ecosystem • DevOps • Self-Hosted Systems
+<h3 align="center">Infrastructure & Game Server Engineer • Minecraft Platform Architect • Backend, Automation & Security
 </h3>
 
 <p align="center">
@@ -50,17 +50,24 @@ I have experience deploying private VPN networks and extensive knowledge of prot
 
 ---
 
-## 🔗 only my Projects
+## 🔗 My Projects
 - **SleepyMoon Discord Bot** — Python, SQLite, Docker  
   https://github.com/MoonCherryFox/SleepyMoon  
-- **Moon Website** — HTML, CSS, JS, Docker, Nginx  (active start in 2026)
-- **"tr------"minecraft server** — 2026 - 2026 - ~ privat minecraft server for community
-- **more minecraft servers** — 05.12.2022 - 2023 - ~ for NanoLand minecraft server
-- **3+ discord bots** — 05.12.2022 - 2023 ~ for NanoLand minecraft servers line
-- **NanoLand discord bot** — 03.15.2021 - ~ main bot for NanoLand minecraft server and  moderation functions for all servers in the future 
-- **NanoLand git book** — 2022 - ~ main for NanoLand minecraft server
-- **Minecraft server NanoLand** — 2019 - 2025 main line with a large number of servers
-- !!!!!!!! Some projects are private, unavailable, or do not have specific public dates attached to them. Most of my work related to server infrastructure cannot be properly documented publicly, either because it was done under private contracts or developed for third-party clients. Because of this, I cannot claim ownership of certain projects or publicly disclose detailed information about them. !!!!!!!!
+- **Moon Website** — HTML, CSS, JS, Docker, Nginx (active development start in 2026)
+- **Private Minecraft Server (“tr------”)** — 2026 - 2026
+  Community‑focused private server
+- **NanoLand Minecraft Servers** — 2022–2023  
+  Multiple servers and infrastructure for the NanoLand project
+- **3+ Discord Bots for NanoLand** — 2022–2023  
+  Automation, and server tools
+- **NanoLand Discord Bot** — 2021–present  
+  Main bot for NanoLand with moderation and server‑wide(server offline) features
+- **NanoLand GitBook** — 2022–present  
+  Main documentation hub for the NanoLand ecosystem (but now offline main NanoLand line)
+- **Minecraft Server NanoLand** — 2019–2025  
+  Main server line with multiple sub‑projects and expansions
+> ⚠️ Some projects are private, unavailable, or do not have public dates.  
+> Much of my server infrastructure work cannot be documented publicly due to private contracts or third‑party ownership.
 
 ---
 
