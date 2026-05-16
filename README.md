@@ -1,5 +1,5 @@
 <h1 align="center">🌙 I'm Sophia — MoonCherryFox</h1>
-<h3 align="center">Infrastructure & Game Server Engineer • Minecraft Platform Architect • Backend, Automation & Security
+<h3 align="center">Infrastructure & Game Server Engineer • Minecraft Server Ecosystem Architect • Backend, Automation & Security
 </h3>
 
 <p align="center">
