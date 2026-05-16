@@ -46,7 +46,7 @@ I have experience deploying private VPN networks and extensive knowledge of prot
 - Pterodactyl Panel  
 - Hosting panels & server management tools  
 - Network configuration, routing, ports, proxy setups  
-- And many other tools used in real projects
+- And many other tools used in projects
 
 ---
 
