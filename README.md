@@ -8,6 +8,8 @@
 
 ---
 
+<h3 align="center">I can send you a USDT TON/USDT TRC 20 cryptocurrency transfer link if you’d like to support or help me out ><
+</h3>
 ## 👋 About Me
 From 2020 to 2025, I worked on Minecraft servers and plugin development.  
 During this time, I created a large number of full server projects from scratch.  
