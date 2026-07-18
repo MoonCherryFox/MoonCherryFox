@@ -56,8 +56,14 @@ I have experience deploying private VPN networks and extensive knowledge of prot
 
 ---
 
-## 🔗 My Projects
-- **SleepyMoon Discord Bot** — Python, SQLite, Docker  
+## 🔗 My Projects- 
+**VRChatMoonEye** — Python... !!! GNU Affero General Public License v3.0 and Other !!!
+  https://github.com/MoonCherryFox/... 
+- **VRSleepDisableADB** — ADB...    !!! Apache License 2.0  !!!
+  https://github.com/MoonCherryFox/...  
+- **moon-wakeup-screen** — kotlin...    !!!  GNU Affero General Public License v3.0  and Other !!!
+  https://github.com/MoonCherryFox/...
+- **SleepyMoon Discord Bot** — Python, SQLite, Docker    !!! Other !!!
   https://github.com/MoonCherryFox/SleepyMoon  
 - **Moon Website** — HTML, CSS, JS, Docker, Nginx (active development start in 2026)
 - **Private Minecraft Server (“tr------”)** — 2026 - 2026
