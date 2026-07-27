@@ -61,8 +61,8 @@ I have experience deploying private VPN networks and extensive knowledge of prot
   https://github.com/MoonCherryFox/... 
 - **VRSleepDisableADB** — ADB...    !!! Apache License 2.0  !!!
   [VRSleepDisableADB](https://github.com/MoonCherryFox/VRSleepDisableADB)  
-- **moon-wakeup-screen** — kotlin...    !!!  GNU Affero General Public License v3.0  and Other !!!
-  https://github.com/MoonCherryFox/...
+- **MoonWakeupScreen** — kotlin
+  [https://github.com/MoonCherryFox/M](https://github.com/MoonCherryFox/MoonWakeupScreen)
 - **SleepyMoon Discord Bot** — Python, SQLite, Docker    !!! Other !!!
   https://github.com/MoonCherryFox/SleepyMoon  
 - **Moon Website** — HTML, CSS, JS, Docker, Nginx (active development start in 2026)
